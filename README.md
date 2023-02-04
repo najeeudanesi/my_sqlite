@@ -6,13 +6,13 @@
 2. To also create a cli program that would read Simple sql statements eg (SELECT * FROM students) and execute them
 
 ## Description
-1. All above functions where created and also the sq
+1. All above functions were created and working optimally. there are of course limitations :)
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+ruby is to be installed on your system for project to run
 
 ## Usage
-TODO - How does it work?
+Run the my_sqlite_cli.rb file to open command line then pass basic sql commands. use the format in test cases .txt file
 ```
 ./my_project argument1 argument2
 ```
